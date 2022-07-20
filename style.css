@@ -1,0 +1,128 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+
+}
+.first-part{
+    display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 60px;
+
+
+
+background: #161616;
+border-radius: 30px;
+}
+span{
+    color: white;
+}
+.introduction{
+width: 50%;
+padding-left: 50px;
+padding-top: 60px;
+}
+.live{
+    background: #DD0000;
+border-radius: 5px;
+font-weight: 700;
+font-size: 30px;
+}
+.messi{
+width: 50%;
+padding-left:30px;
+}
+.fixture{
+    width: 312px;
+height: 312px;
+background: #161616;
+border-radius: 10px;
+}
+.blog a{
+    text-decoration: none;
+    
+    padding-left: 70px;
+    padding-top: 20px;
+    font-size: 20px;
+    
+}
+.blog{
+    width: 252px;
+height: 64px;
+background: #FFFFFF;
+border-radius: 10px;
+margin-bottom: 10px;
+margin-top: 20px;
+margin-left: 20px;
+}
+
+.information{
+    border-radius: 7px;
+    border: 1px solid #E8E8E8;
+    width: 312px;
+height: 360px;
+padding-left: 10px;
+padding-right: 10px;
+}
+.information img{
+    width: 100%;
+    padding-top: 10px;
+    border-radius: 20px;
+}
+.transfar{
+    text-decoration: none;
+    border: 2px solid gray;
+    border-radius: 5px;
+    height: 32px;width: 100px;
+    margin-top: 50px;
+}
+.icon{
+    display: flex;
+}
+.clock{
+    margin-right: 10px;
+}
+.slah{
+    margin-bottom: 20px;
+}
+h4{
+    font-weight: 600;
+font-size: 18px;
+width: 272px;
+height: 54px;
+
+}
+.continer {
+    display: grid;
+    grid-template-columns:auto auto auto;
+    row-gap: 10px;
+    column-gap: 10px;
+    margin-left: 10px;
+    margin-bottom: 80px;
+}
+.section{
+    display: flex;
+}
+.last-part{
+    width: 1600px;
+height: 444px;
+background: #161616;
+}
+.goal{
+    width: 95px;
+height: 60px;
+color: #FFFFFF;
+padding-left: 7in;
+padding-top: 1.5in;
+font-weight: 600;
+margin-bottom: 50px;
+}
+.bottom-part{
+    border: 1px solid rgba(255, 255, 255, 0.1);
+
+}
+.bottom-part a{
+    color: #B9B9B9;
+    text-decoration: none;
+    padding-left: 110px;
+}
